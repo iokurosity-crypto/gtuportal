@@ -1,0 +1,59 @@
+# Node modules - CRITICAL: Never commit dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Build outputs
+frontend/dist/
+backend3/uploads/
+
+# Environment files - SECURITY: Never commit .env files
+.env
+.env.local
+.env.*.local
+.env.production
+# But allow .env.example files for documentation
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.history/
+.zencoder/
+.zenflow/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# IDE workspace settings
+.vscode/*
+!.vscode/extensions.json
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+
+# MacOS
+.AppleDouble
+.AppleDB
+.Appledesktop
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Temporary files
+temp/
+tmp/

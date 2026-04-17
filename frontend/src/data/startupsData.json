@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Exposit Pvt. Ltd.",
+    "founder": "Roshan Rawal",
+    "dippNumber": "08658054",
+    "description": "PRASHANSA 2019 – Campus Startup/SSIP Supported GTU Startup Medal 2019",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  },
+  {
+    "id": 2,
+    "name": "Reolo Pvt. Ltd.",
+    "founder": "Malav Shah",
+    "dippNumber": "08847406",
+    "description": "PRASHANSA 2020 – Campus Startup/SSIP Supported GTU Startup Medal 2021",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  },
+  {
+    "id": 3,
+    "name": "Conceptual Technologies LLP",
+    "founder": "Sumanth Mudaliar",
+    "dippNumber": "08260653",
+    "description": "Infosys Award/SSIP Supported",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  },
+  {
+    "id": 4,
+    "name": "Brainiac Healthcare Private Limited",
+    "founder": "Krunal Prajapati",
+    "dippNumber": "DIPP85299",
+    "description": "Pvt. Ltd. Company Registered",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  },
+  {
+    "id": 5,
+    "name": "Ibotiks Innovations LLP",
+    "founder": "Mumukshu Shah",
+    "dippNumber": "DIPP84096",
+    "description": "Focus on COVID 19 related robotic solution",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  },
+  {
+    "id": 6,
+    "name": "Zevien Technologies Private Limited",
+    "founder": "Het Shah, Anu Agrawal, Kathan Kotadia",
+    "dippNumber": "DIPP107318",
+    "description": "Pvt. Ltd. Company Registered",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  },
+  {
+    "id": 7,
+    "name": "Blacksmith Mechatronics",
+    "founder": "Pratikkumar J Panchal",
+    "dippNumber": "24AXOPP8061B1ZE",
+    "description": "Pvt. Ltd. Company Registered",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  },
+  {
+    "id": 8,
+    "name": "Henzai Technologies Private Limited",
+    "founder": "Dipang N Patel, Ratnam Shah",
+    "dippNumber": "DIPP159916",
+    "description": "Pvt. Ltd. Company Registered",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  },
+  {
+    "id": 9,
+    "name": "GWSE Ventures PVT Limited",
+    "founder": "Jani Harsh",
+    "dippNumber": "DIPP1640003",
+    "description": "Pvt. Ltd. Company Registered",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  },
+  {
+    "id": 10,
+    "name": "Urbanlyfe Green PVT Limited",
+    "founder": "Surati Shaishav Pravinbhai",
+    "dippNumber": "DIPP120550",
+    "description": "Pvt. Ltd. Company Registered",
+    "logo": "/startups/ldce-logo.png",
+    "category": "Tech"
+  }
+]

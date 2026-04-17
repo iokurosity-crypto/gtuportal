@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "B N Navalawala",
+        "batch": "1963",
+        "position": "Advisor to Chief Minister of Gujarat",
+        "department": "Civil Engineering",
+        "achievement": "Babubhai Navalawala is currently the Advisor to Chief Minister of Gujarat and a renowned expert in water resources.",
+        "image": "/assets/02-25102021035241-DlrIS9Km.jpg"
+    },
+    {
+        "id": 2,
+        "name": "H P Jamdar",
+        "batch": "1965",
+        "position": "Advisor and Independent Director in Infrastructure",
+        "department": "Civil Engineering",
+        "achievement": "Mr. Jamdar, awarded lifetime achievement for his contribution to the infrastructure sector in India.",
+        "image": "/assets/img-20210129-wa0013-25102021040353-Cb-Pc8bw.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Atik M Desai",
+        "batch": "1981",
+        "position": "Vice President at Hazira Manufacturing Complex",
+        "department": "Mechanical Engineering",
+        "achievement": "Vice President - Chief Administrative Officer at L&T Hazira Manufacturing Complex.",
+        "image": "/assets/mr-atikdesai-26022021072738-9jJsA8qM.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jayesh I Parikh",
+        "batch": "1983",
+        "position": "Founder of Chem Process Pvt. Ltd",
+        "department": "Mechanical Engineering",
+        "achievement": "Mr. Jayesh Parikh is the founder, chairman and managing director of Chem Process Pvt. Ltd.",
+        "image": "/assets/img_20220606_085020-06062022085030-ByauqG1F.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Milan R Patel",
+        "batch": "1983",
+        "position": "Director of Troikaa Pharmaceuticals",
+        "department": "Chemical Engineering",
+        "achievement": "Chairman of Indian Drug Manufacturers Association and Director of Troikaa Pharmaceuticals.",
+        "image": "/assets/milan-patel-unique-avatar.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pavan Bakeri",
+        "batch": "1987",
+        "position": "Director in Bakeri Group",
+        "department": "Civil Engineering",
+        "achievement": "Member of Board of Directors at Bakeri Urban Development PVT. LTD.",
+        "image": "/assets/pavan-bakeri-02022021041423-Bk2ZgqKS.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Pavani Diwanji",
+        "batch": "1990",
+        "position": "Vice President at Facebook",
+        "department": "Computer Engineering",
+        "achievement": "Pavni Diwanji graduated from LDCE and is now a Vice President at Facebook (Meta).",
+        "image": "/assets/pavni-26112021083633-CQ_xBI4M.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Jaxay S Shah",
+        "batch": "1990",
+        "position": "Founder of Savvy group",
+        "department": "Civil Engineering",
+        "achievement": "Managing Director and Founder of SAVVY Infrastructure and former CREDAI Chairman.",
+        "image": "/assets/jaxay-shah-02022021025222-DR5Fp8VO.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sameer S Sinha",
+        "batch": "1990",
+        "position": "Founder of Savvy group",
+        "department": "Civil Engineering",
+        "achievement": "Founder and Managing Director of Savvy Group and pioneer in green buildings.",
+        "image": "/assets/sameer-sinha-02022021022406-1V_Jq9Bw.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Hardik Satishchandra Shah",
+        "batch": "1994",
+        "position": "Private Secretary to PM",
+        "department": "Environmental Engineering",
+        "achievement": "2010 Batch IAS Officer, appointed as Private Secretary to the Prime Minister of India.",
+        "image": "/assets/hardik-shah-02022021030525-DcYtrMSl.jpg"
+    }
+]

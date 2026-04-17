@@ -1,0 +1,9 @@
+node_modules
+.git
+.github
+.gitignore
+.env.local
+.env.*.local
+*.log
+.DS_Store
+vite.config.js.timestamp-*

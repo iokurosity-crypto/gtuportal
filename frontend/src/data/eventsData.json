@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Sahitya Sarita 2026",
+    "date": "Friday, February 20, 2026",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Upcoming",
+    "description": "Join us for the Sahitya Sarita 2026 event at LDCE.",
+    "image": "/events/GFZttJ9y2v0A4twfLT8516hhLJdkZ8Gz2JJWlRx8.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Hospital Visit at K D Hospital",
+    "date": "Saturday, January 31, 2026",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Join us for the Hospital Visit at K D Hospital event at LDCE.",
+    "image": "/events/5URolZMsh31c1E8OWmfEdXISOd7zWtuFtVqjhhz4.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The L D College of Engineering warmly invites you to celebrate our ...",
+    "date": "Monday, January 26, 2026",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "The L D College of Engineering warmly invites you to celebrate our 77th Republic...",
+    "image": "/events/S82MlzabluPNdmh7OJIrJiYE52LkmNWtvKWI42E8.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Yoga Sessions are being organized at the LDCE Campus",
+    "date": "Tuesday, January 20, 2026",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Join us for the Yoga Sessions are being organized at the LDCE Campus event at LDCE.",
+    "image": "/events/3tLrC7hczOht8NKZVPMNo1u740ZdTPzGOL1uMby7.jpg"
+  },
+  {
+    "id": 5,
+    "title": "UMMEED 2K26 a heartfelt initiative dedicated to spreading joy, hope...",
+    "date": "Monday, January 12, 2026",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "UMMEED 2K26 a heartfelt initiative dedicated to spreading joy, hope, and smiles...",
+    "image": "/events/KGAPqGeOPt1ALMByuQ3aupQ4UinAXSgRAwSlfZa0.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Air Pollution Sensor-Based Monitoring Equipments",
+    "date": "Thursday, January 8, 2026",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Join us for the Air Pollution Sensor-Based Monitoring Equipments event at LDCE.",
+    "image": "/events/ihOjyrT1jKtrBQ9ybsCsv3mIOxSvZiaSCyqCsRWU.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Sahyog-2025 Industry-Institute Meet",
+    "date": "Thursday, December 11, 2025",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Join us for the Sahyog-2025 Industry-Institute Meet event at LDCE.",
+    "image": "/events/pQl9Ch9SOVdzt7QdJBWVsItqZrTv4bcBY0DPLIxD.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Sahyog-2025-Chemical Engineering Department",
+    "date": "Saturday, November 29, 2025",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Join us for the Sahyog-2025-Chemical Engineering Department event at LDCE.",
+    "image": "/events/8DsqB2bve9RJpPNs0HfK2nSKciRIDuFpTx6jCtKc.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Debate Competition",
+    "date": "Saturday, November 29, 2025",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Join us for the Debate Competition event at LDCE.",
+    "image": "/events/FH8nInAjdyz8NLwpNEzoaScKapFN3kS6DEiP9n9W.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Mental Awareness Program at LDCE on  26th November, 2025",
+    "date": "Wednesday, November 26, 2025",
+    "time": "10:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Join us for the Mental Awareness Program at LDCE on  26th November, 2025 event at LDCE.",
+    "image": "/events/TgNzTlAuveNtueOM5cAQAd7hH61cHhJuvT1nHVUc.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Global Alumni Meet - 2026",
+    "date": "04 Jan, 2026",
+    "time": "06:00 PM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Reconnect, Reminisce, Relive!",
+    "image": "/events/gam-25122025070008.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "Annual General Meeting (AGM)",
+    "date": "28 Sep, 2025",
+    "time": "11:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Annual General Meeting (AGM) for the year 2024-25",
+    "image": "/events/No-Image-Placeholder.jpg"
+  },
+  {
+    "id": 13,
+    "title": "LDCE Alumni Meet (LAM) 2025 @ Canada",
+    "date": "23 Aug, 2025",
+    "time": "06:00 PM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Ready to reignite the spark and reconnect with your fellow graduates? We're thrill...",
+    "image": "/events/whatsapp-image-2025-06-06-at-6-47-04-pm-06062025071715.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "Global Alumni Convention 2025",
+    "date": "04 Jan, 2025",
+    "time": "02:00 PM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "As we get ready to turn the calendar to next year, we are also getting ready to we...",
+    "image": "/events/gac-2025-13122024042001.jpg"
+  },
+  {
+    "id": 15,
+    "title": "LDCE Alumni Assoc. AGM",
+    "date": "29 Sep, 2024",
+    "time": "11:00 AM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "LAA Annual General Meeting 2024",
+    "image": "/events/No-Image-Placeholder.jpg"
+  },
+  {
+    "id": 16,
+    "title": "LDCE Alumni Meet -CA",
+    "date": "22 Jun, 2024",
+    "time": "05:30 PM",
+    "location": "LDCE Campus",
+    "type": "Offline",
+    "status": "Past",
+    "description": "Ready to reignite the spark and reconnect with your fellow graduates? We're thrill...",
+    "image": "/events/lam-ca01-10052024041041.jpg"
+  }
+]
